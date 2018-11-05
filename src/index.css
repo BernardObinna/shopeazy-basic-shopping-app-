@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+nav {
+  margin-bottom: 5%;
+}
+
+.pri {
+  padding-left: 10%;
+}
+
+.navlink {
+  padding: 0 16px;
+  font-weight: bold;
+}
+
+.navlinkheader {
+  padding: 16px 0% 0% 2%;
+  margin: auto;
+  font-family: SegoeUI;
+  font-size: 40px;
+}
+
+
+
+
+.individualProduct{
+  margin: auto;
+  display: block;
+}
+
+.product img {
+  height: 65%;
+  width: 70%;
+}
+
+#checkOutButton {
+  margin: auto;
+  display: block;
+  width: 25%;
+}
+
+.waves-effect {
+  color: black;
+  background-color: grey;
+  font-size: 16px;
+}
+
+
+#submit{
+  margin: auto;
+  display: block;
+}
+
+button,input,nav,body,p,h1, h2, h3{
+  font-family: SegoeUI;
+  
+}
+
+.product p{
+  font-size: 16px;
+}
+
+
+.badge{
+  font-size: 16px;
+
+}
+
+label{
+  font-size: 16px;
+}
+
+
+.individualProduct >img{
+  height: 95%;
+  width: 95%;
+}
+
+.product{
+  margin-bottom:4%;
+}
+
+.acknowledgement{
+ font-size: 25px;
+ font-weight: bold;
+
+}
+
